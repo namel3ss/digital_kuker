@@ -9,7 +9,7 @@ permalink: /
 About me:
 - software developer for the past 17 years :space_invader:
 - writing passionately in Ruby :heart_on_fire:
-- currently a consultant / freelancer :octopus:
+- currently a consultant / freelancer :dolphin:
 - speaking Bulgarian :bulgaria: / English :uk: / German :de: / Japanese :jp:
 - growing a small tech blog [here](/blog) :memo:
 
