@@ -20,6 +20,7 @@
 }
 
 $base-font-family: "Cutive Mono", monospace;
+$base-font-size:   14px !default;
 
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",

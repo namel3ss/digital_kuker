@@ -7,11 +7,11 @@ permalink: /
 ### Welcome to my personal space on the internet!
 
 About me:
-- software developer for the past 17 years
-- love the Ruby language
-- currently a freelancer / consultant
-- speaking Bulgarian / English / German / Japanese
-- growing a small tech blog [here](/blog)
+- software developer for the past 17 years :space_invader:
+- writing passionately in Ruby :heart_on_fire:
+- currently a consultant / freelancer :octopus:
+- speaking Bulgarian :bulgaria: / English :uk: / German :de: / Japanese :jp:
+- growing a small tech blog [here](/blog) :memo:
 
 &nbsp;
 
