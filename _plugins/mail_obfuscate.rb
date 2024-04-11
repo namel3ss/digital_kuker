@@ -1,6 +1,8 @@
 require 'base64'
 require 'uri'
 
+# Taken from the gist shared by @patrickfav
+# https://gist.github.com/patrickfav/3f9127e25dd6538f0d682b89cbfaefd9
 module ObfuscateMailAddress
   def mail_obfuscate(input)
     base64Mail = Base64.strict_encode64(Addressable::URI.encode(input))
