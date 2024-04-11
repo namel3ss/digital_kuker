@@ -1,4 +1,4 @@
-title: digital_kuker
+title: "digital_kuker :japanese_goblin:"
 author:
   name: Martin Mihaylov
   email: martin@digitalkuker.com
@@ -19,6 +19,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jemoji
 
 # Theme-specific settings
 

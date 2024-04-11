@@ -24,3 +24,12 @@ $base-font-family: "Cutive Mono", monospace;
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+
+.site-header {
+  .site-title {
+    img.emoji {
+      width: 40px !important;
+      height: 40px !important;
+    }
+  }
+}
