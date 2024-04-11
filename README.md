@@ -1,5 +1,5 @@
 # Digital Kuker
-My personal website.
+My personal website - https://digitalkuker.com
 
 It is build using:
 * [jekyll](https://jekyllrb.com)
