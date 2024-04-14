@@ -4,7 +4,7 @@ title: Home
 permalink: /
 ---
 # Hi! I'm Martin Mihaylov.
-### Welcome to my personal space on the internet!
+Welcome to my personal space on the internet!
 
 About me:
 - software developer for the past 17 years :space_invader:
