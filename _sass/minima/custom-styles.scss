@@ -17,6 +17,9 @@
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 
+$neon-peach: #ff4637;
+$neon-green: #cefa05;
+
 .site-header {
   .site-title {
     img.emoji {
@@ -37,7 +40,7 @@
 
 .page-content {
   *:not(h1, h2, h3, h4, h5) > a, a:visited {
-    background-color: #ff4637;
+    background-color: $neon-peach;
     padding: 0 5px;
     color: var(--minima-text-color);
   }
@@ -45,12 +48,21 @@
 
 .copyright {
   a, a:visited {
-    color: #ff4637;
+    color: $neon-peach;
   }
 }
 
 a.site-title, h1, h2, h3, h4, h5 {
   padding: 0 10px;
-  background-color: #cefa05;
+  background-color: $neon-green;
 }
 
+.social-media-list li {
+  a:hover {
+    border-color: $neon-peach;
+
+    .svg-icon {
+      color: $neon-peach;
+    }
+  }
+}
