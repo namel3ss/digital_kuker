@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: Digital Kuker
 permalink: /
 ---
 # Hi! I'm Martin Mihaylov.
