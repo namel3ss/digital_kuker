@@ -35,7 +35,22 @@
   font-size: $small-font-size;
 }
 
+.page-content {
+  *:not(h1, h2, h3, h4, h5) > a, a:visited {
+    background-color: #ff4637;
+    padding: 0 5px;
+    color: var(--minima-text-color);
+  }
+}
+
+.copyright {
+  a, a:visited {
+    color: #ff4637;
+  }
+}
+
 a.site-title, h1, h2, h3, h4, h5 {
   padding: 0 10px;
   background-color: #cefa05;
 }
+
